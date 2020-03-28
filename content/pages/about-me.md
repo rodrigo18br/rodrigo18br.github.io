@@ -4,7 +4,7 @@ save-as:about-me.html
 
 Graduado em Engenharia de Computação pela Universidade Federal do Vale do São Francisco.
 
-Atualmente mestrando em Ciência da Computação na Universidade Federal do Vale do São Francisco.
+Atualmente mestrando em Ciência da Computação na Universidade Estadual de Feira de Santana.
 
 Interessado em Data Science e Inteligência Artificial.
 
