@@ -35,7 +35,7 @@ Existem diversas bibliotecas para acessar os endpoints do Instagram. Utilizei a 
 
 Deste último grupo de resultados foram extraídos todos os posts até alcançar a 4º semana do ano. Esses posts foram contados por semana. Iniciei com localidades próximas da Avenida Getúlio Vargas, uma das principais do centro da cidade. Com a baixa quantidade de locais com dados aproveitáveis (como explico na próxima seção), decidi procurar por alguns locais que presumi que seriam mais frutíferos:
 
-* A principal universidade da cidade, Universidade Federal do Vale do São Francisco;
+* A principal universidade da cidade, Universidade Estadual de Feira de Santana;
 
 * Dois shoppings da cidade, o Boulevard Shopping e o América Outlet.
 
