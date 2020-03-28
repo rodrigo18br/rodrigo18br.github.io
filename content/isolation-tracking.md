@@ -6,7 +6,7 @@ Authors: Rodrigo Oliveira
 
 O cenário recente da pandemia de COVID-19 traz o risco de que com um grande número de casos simultâneos haja um colapso no sistema de saúde, com escassez de leitos e recursos. A fim de desacelerar o contágio, especialistas passaram a recomendar o isolamento social de grande parte da população, de modo a evitar aglomerações em que a contaminação é fácil de acontecer. Com a chegada do vírus no Brasil, diversos governos a nível estadual e municipal passaram a determinar o fechamento de estabelecimentos públicos para estimular o isolamento.
 
-Isso leva à pergunta: de que modo é possível identficar se está realmente acontecendo isolamento num nível que diminua o ritmo de contágio? Visto que uma grande quantidade de pessoas registra suas atividades em rede sociais, é de se esperar que caso elas estejam de fato se isolando, uma mudança nos padrões de seus conteúdos aparecerá.
+Isso leva à pergunta: de que modo é possível identificar se está realmente acontecendo isolamento num nível que diminua o ritmo de contágio? Visto que uma grande quantidade de pessoas registra suas atividades em rede sociais, é de se esperar que caso elas estejam de fato se isolando, uma mudança nos padrões de seus conteúdos aparecerá.
 
 Neste artigo irei realizar uma análise de posts no Instagram para identificar se houve alguma mudança nos posts situados em locais externos com a chegada do COVID-19 no Brasil. Antes de partir para os aspectos técnicos, é necessário ter em mente algumas limitações do que será feito aqui:
 
