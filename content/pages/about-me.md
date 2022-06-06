@@ -8,4 +8,8 @@ Atualmente mestrando em Ciência da Computação na Universidade Estadual de Fei
 
 Interessado em Data Science e Inteligência Artificial.
 
+[Lattes](http://lattes.cnpq.br/3053104537804643)
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-oliveira-54390a200)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HdGp12ibP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
