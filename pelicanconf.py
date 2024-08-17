@@ -26,7 +26,11 @@ PLUGINS=['pelican.plugins.simple_footnotes']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = 'brutalist'
+THEME = 'themes/brutalist'
 FIRST_NAME = 'Rodrigo Oliveira'
 ATTRIBUTION = True
 STATIC_PATHS = ['img']
+MENUITEMS = [('Sobre mim/About me', '/pages/about-me')]
+DISPLAY_PAGES_ON_MENU = False
+GITHUB = 'https://github.com/rodrigo18br'
+

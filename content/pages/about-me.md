@@ -1,12 +1,20 @@
-Title: Sobre mim
-save-as:about-me.html
+Title: Sobre mim/About me
+slug:about-me
 ##############
 
 Graduado em Engenharia de Computação pela Universidade Federal do Vale do São Francisco.
 
-Atualmente mestrando em Ciência da Computação na Universidade Estadual de Feira de Santana.
+Mestre em Ciência da Computação na Universidade Estadual de Feira de Santana.
 
-Interessado em Data Science e Inteligência Artificial.
+Interessado em Data Science; Inteligência Artificial; Processamento de Linguagem Natural; Filosofia.
+
+---------------------------------------------------
+
+Bachelors in Computer Engineering at Universidade Federal do Vale do São Francisco.
+
+Masters in Computer Science at Universidade Estadual de Feira de Santana.
+
+Interests: Data Science; Artificial Intelligence; Natural Language Processing; Philosophy.
 
 [Lattes](http://lattes.cnpq.br/3053104537804643)
 
